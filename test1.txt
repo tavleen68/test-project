@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E025-6797
+
+ Directory of C:\Users\Simret Kaur\Desktop\MyProject
+
+10-11-2019  21:13    <DIR>          .
+10-11-2019  21:13    <DIR>          ..
+10-11-2019  21:13                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  958,045,040,640 bytes free
